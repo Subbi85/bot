@@ -1,0 +1,14 @@
+Node.js basierterter Bot
+Ein Discord.js Bot, der die wichtigsten Funktion für unserer D&D Campagne übernehmen soll...
+
+Funktionen:
+- Monstersuche nach exakten Namen (und Stichwörten)
+- Spellsuche nach exakten Namen (und Stichwörten)
+- Hilfe / Übersicht
+- History
+- Ping -> Pong
+- roll
+- Polls
+
+ToDo:
+- Summons
